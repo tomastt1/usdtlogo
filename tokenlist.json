@@ -1,0 +1,16 @@
+{
+"name": "My Local Token List",
+"logoURI": "https://raw.githubusercontent.com/tomastt1/usdtlogo/main/USDT_Logo.png",
+"keywords": ["token"],
+"timestamp": "2026-01-01T00:00:00+00:00",
+"tokens": [
+{
+"chainId": 1,
+"address": "0x85ca9731357fdf4034964912aad5b4a8dffd8143",
+"name": "Tether USD",
+"symbol": "USDT",
+"decimals": 6,
+"logoURI": "https://raw.githubusercontent.com/tomastt1/usdtlogo/main/USDT_Logo.png"
+}
+]
+}
