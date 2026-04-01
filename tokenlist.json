@@ -3,6 +3,11 @@
 "logoURI": "https://raw.githubusercontent.com/tomastt1/usdtlogo/main/USDT_Logo.png",
 "keywords": ["token"],
 "timestamp": "2026-01-01T00:00:00+00:00",
+"version": {
+"major": 1,
+"minor": 0,
+"patch": 0
+},
 "tokens": [
 {
 "chainId": 1,
